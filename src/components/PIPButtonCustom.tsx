@@ -55,7 +55,7 @@ export const PIPButtonCustom: FC = ({ }) => {
 
               <div className="flex justify-center mt-[2px]">
                 <PIPButton
-                  receiver="STJ7LxTepj3V3YrW1Qz4oT3F1ZK2B4wYKnYpUZyUnUp"
+                  receiver="6ZTfLaoqVrWgvHehjPhhhhAvcUCLVDQR5FA3Gt2E9Vxd"
                   amount={tipAmount}
                   currency={currency}
                   label="SUPPORT US"
